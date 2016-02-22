@@ -20,11 +20,14 @@ while(a > 5){
 }
 
 console.log(value);
-
+//10
 // step 3
 a = 3;
 
+console.log("i : ", i);
+
 while(a > 0){
+	console.log(value + i);
 	value = augmentA(value + i);
 	a--;
 }

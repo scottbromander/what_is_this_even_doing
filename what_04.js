@@ -24,12 +24,12 @@ a = 2;
 for(i = 0; i < 9; i++){
 	value--;
 }
-
+//2203
 //step 6
 var b = a + 43;
 
 value += b;
-
+//2248
 //step 7
 var c = "89";
 
